@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 .env
-screenshot_*.png 
+screenshot_*.png
